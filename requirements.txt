@@ -1,0 +1,12 @@
+notebook
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.0
+scikit-learn==1.4.0
+scipy==1.12.0
+seaborn==0.13.2
+xgboost==2.0.3
+mtcnn==0.1.1
+keras-facenet==0.3.2
+scipy==1.12.0
+pygame==2.5.2
